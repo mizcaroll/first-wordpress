@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Orbit Fox by ThemeIsle - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-06-05 12:35:30+0000\n"
+"PO-Revision-Date: 2020-09-24 11:43:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,18 @@ msgstr ""
 "X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: en_GB\n"
 "Project-Id-Version: Plugins - Orbit Fox by ThemeIsle - Development (trunk)\n"
+
+#: core/app/class-orbit-fox-admin.php:118
+msgid "Installing ... "
+msgstr "Installing..."
+
+#: core/app/class-orbit-fox-admin.php:117
+msgid "Activating "
+msgstr "Activating "
+
+#: core/app/class-orbit-fox-plugin-install.php:180
+msgid "Deactivate"
+msgstr "Deactivate"
 
 #: obfx_modules/header-footer-scripts/init.php:189
 msgid "Scripts"
@@ -1120,6 +1132,10 @@ msgstr "Import & set featured image"
 #: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:261
 msgid "Type"
 msgstr "Type"
+
+#: core/app/class-orbit-fox-plugin-install.php:161
+msgid "Install and activate"
+msgstr "Install and activate"
 
 #: obfx_modules/template-directory/init.php:101
 msgid "Orbit Fox Template Directory"
